@@ -8,7 +8,7 @@ and lots of work.
 TODO 
 -----
 
-This is, by no means, not a comprehensive todo list, but just a place to get started.
+This is not a comprehensive todo list, but just a place to get started.
 
 - Convert project to [jquery-boilerplate][] 
 - Write email in markdown with preview 
