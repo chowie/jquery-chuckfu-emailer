@@ -10,7 +10,7 @@
             toTesterAddressSelector: '.email.email-tester-address',
             selectTextSelector: '.chuckfu-selected-text',
             selectedQtySelector: '.chuckfu-selected-qty',
-            selectedText: $('<span class="chuckfu-selected-text"/>').html('Applicants selected to receive email:&nbsp;'),
+            selectedText: $('<span class="chuckfu-selected-text"/>').html('Recipients selected:'),
             selectedQty: $('<span class="chuckfu-selected-qty"/>').html('-'),
             onSendEmail: function() {},
             postToUrl: false,
